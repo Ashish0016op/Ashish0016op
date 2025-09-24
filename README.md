@@ -84,18 +84,16 @@
   <a href="mailto:gdak0016@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/AshishKumar" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
 </p>
 
 ---
 
-🎵 **Fun Facts**
+🎵 **Fun Facts About Me**
 
-- 🎧 Love listening to music  
-- 🏏 Enjoy playing cricket  
-- 🎬 Fan of movies
+- 🎧 Music lover – always exploring new tunes  
+- 🏏 Cricket enthusiast – enjoy playing and watching  
+- 🎬 Movie buff – love exploring different genres 
+
 
 ---
 

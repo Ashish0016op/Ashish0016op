@@ -18,6 +18,7 @@
 🌟 **About Me**
 
 - 🔬 Data Scientist passionate about **AI, ML, and Deep Learning**
+- 💻 Full-Stack Web Developer | Building interactive and responsive web apps
 - 💡 Exploring **NLP** & building real-world solutions
 - 🚀 Always curious to learn new tech and solve challenging problems
 

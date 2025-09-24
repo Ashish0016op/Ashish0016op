@@ -75,12 +75,21 @@
 
 ---
 
-📊 **GitHub Stats**
+📊 **GitHub Stats & Contributions**
 
 <p align="center">
+  <!-- Overall GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=AshishKumar&show_icons=true&theme=radical" alt="Ashish's GitHub Stats" />
+
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishKumar&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshishKumar&theme=radical" alt="GitHub Streak" />
+</p>
+
 
 ---
 

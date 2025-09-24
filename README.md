@@ -75,6 +75,15 @@
 
 ---
 
+📊 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AshishKumar&show_icons=true&theme=radical" alt="Ashish's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishKumar&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
 📫 **Let's Connect!**
 
 <p align="center">

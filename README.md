@@ -85,10 +85,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish0016op&layout=compact&theme=radical" />
 </p>
 
-<p align="center">
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashish0016op&theme=radical" />
-</p>
 
 
 ---

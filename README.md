@@ -54,32 +54,24 @@
 
 🚀 **Featured Projects**
 
-<br>
+---
 
-### 1. [Masai EDA Project](https://github.com/Ashish0016op/Masai_EDA_Project)  
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> &nbsp;
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> &nbsp;
-<img src="https://img.shields.io/badge/Matplotlib-F0DB4F?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib"/>  
-Exploratory Data Analysis on real-world datasets using Python and visualization libraries.  
+### 🔹 [Masai EDA Project](https://github.com/Ashish0016op/Masai_EDA_Project)  
+**Tech:** Python, Pandas, Matplotlib  
+🔍 Performed Exploratory Data Analysis on real-world datasets and visualized insights.
 
 ---
 
-### 2. [Shopdressup](https://github.com/Ashish0016op/Shopdressup)  
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/> &nbsp;
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/> &nbsp;
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> &nbsp;
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="ReactJS"/> &nbsp;
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/> &nbsp;
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>  
-A full-stack e-commerce platform built with the MERN stack.  
+### 🔹 [Shopdressup](https://github.com/Ashish0016op/Shopdressup)  
+**Tech:** HTML, CSS, JavaScript, ReactJS, NodeJS, MongoDB  
+🛒 Built a full-stack e-commerce platform with interactive features and responsive design.
 
 ---
 
-### 3. [Expense Tracker](https://github.com/Ashish0016op/Expense-Tracker)  
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> &nbsp;
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/> &nbsp;
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>  
-Track your expenses, visualize spending, and manage your personal finances effectively.
+### 🔹 [Expense Tracker](https://github.com/Ashish0016op/Expense-Tracker)  
+**Tech:** HTML, CSS, JavaScript  
+💰 Developed an expense tracker to monitor spending and visualize personal finances.
+
 
 ---
 

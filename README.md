@@ -64,6 +64,7 @@
 
 ### 🔹 [Electricity Demand Forecasting](https://github.com/Ashish0016op/Shopdressup)  
 **Tech:** Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, XGBoost
+<br>
 📊 Developed a machine learning model to forecast electricity demand using historical data. Performed data cleaning, feature engineering, and model evaluation to achieve accurate predictions. Visualized trends and patterns using Matplotlib and Seaborn.
 
 ---

@@ -62,9 +62,9 @@
 
 ---
 
-### 🔹 [Shopdressup](https://github.com/Ashish0016op/Shopdressup)  
-**Tech:** HTML, CSS, JavaScript, ReactJS, NodeJS, MongoDB  
-🛒 Built a full-stack e-commerce platform with interactive features and responsive design.
+### 🔹 [Electricity Demand Forecasting](https://github.com/Ashish0016op/Shopdressup)  
+**Tech:** Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, XGBoost
+📊 Developed a machine learning model to forecast electricity demand using historical data. Performed data cleaning, feature engineering, and model evaluation to achieve accurate predictions. Visualized trends and patterns using Matplotlib and Seaborn.
 
 ---
 

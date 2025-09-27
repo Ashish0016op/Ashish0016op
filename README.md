@@ -69,7 +69,7 @@
 
 ---
 
-### 🔹 [Expense Tracker](https://github.com/Ashish0016op/Expense-Tracker)  
+### 🔹 [Consumer Shopping Behavior Analysis Dashboard](https://github.com/Ashish0016op/Consumer-Shopping-Behavior-Analysis-Dashboard)  
 **Tech:** HTML, CSS, JavaScript  
 💰 Developed an expense tracker to monitor spending and visualize personal finances.
 

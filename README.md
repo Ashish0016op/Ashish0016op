@@ -56,7 +56,7 @@
 
 ---
 
-### 🔹 [Masai EDA Project](https://github.com/Ashish0016op/Masai_EDA_Project)  
+### 🔹 [Quotes-Scraper-Data-Analysis](https://github.com/Ashish0016op/Quotes-Scraper-Data-Analysis)  
 **Tech:** Python, Pandas, Matplotlib  
 🔍 Performed Exploratory Data Analysis on real-world datasets and visualized insights.
 

@@ -70,8 +70,8 @@
 ---
 
 ### 🔹 [Consumer Shopping Behavior Analysis Dashboard](https://github.com/Ashish0016op/Consumer-Shopping-Behavior-Analysis-Dashboard)  
-**Tech:** HTML, CSS, JavaScript  
-💰 Developed an expense tracker to monitor spending and visualize personal finances.
+**Tech:** Power BI Desktop, DAX (Data Analysis Expressions), Power Query
+📊 Visualizes key metrics such as revenue, average purchase amount, customer count, review ratings, and subscription revenue.
 
 
 ---

@@ -4,10 +4,6 @@
 <h3 align="center">Data Scientist | Transforming Data into Insights | Exploring AI & ML</h3>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/40209509?v=4" width="160" style="border-radius:50%;border:2px solid #ccc" alt="Ashish Kumar Professional Profile" />
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/ashish-kumar-b115a1254/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -56,30 +52,35 @@
 ---
 
 ### 🛒 [Consumer Shopping Behavior Analysis Dashboard](https://github.com/Ashish0016op/Consumer-Shopping-Behavior-Analysis-Dashboard)
-**Tags:** `#PowerBI` `#Python` `#DataVisualization` `#EDA` `#Dashboard`  
-**Description:**  
-A business intelligence dashboard that visualizes consumer shopping trends, revenue, customer segmentation, and key performance metrics. Utilizes Power BI and DAX for advanced analytics and interactive reports.
 
-🔗 **[View the deployed Streamlit app](https://consumer-shopping-behavior-analysis-dashboard.streamlit.app/)**
+- **Description:**  
+  A business intelligence dashboard that visualizes consumer shopping trends, revenue, customer segmentation, and key performance metrics. Utilizes Power BI and DAX for advanced analytics and interactive reports.
+
+- **Skills:** Power BI, DAX, Python, Streamlit, Data Visualization
+
+- **Deployed Link:** [View Dashboard](https://consumer-shopping-behavior-analysis-dashboard.streamlit.app/)
 
 ---
 
 ### 💬 [Quotes Scraper Data Analysis](https://github.com/Ashish0016op/Quotes-Scraper-Data-Analysis)
-**Tags:** `#Python` `#WebScraping` `#EDA` `#Visualization`  
-**Description:**  
-A Python-powered app that scrapes quotes from web sources, cleans the data, performs exploratory data analysis, and visualizes insights using Pandas and Matplotlib.
 
-🔗 **[View the deployed project](https://quotes-scraper-data-analysis.streamlit.app/)**
+- **Description:**  
+  A Python-powered app that scrapes quotes from web sources, cleans the data, performs exploratory data analysis, and visualizes insights using Pandas and Matplotlib.
+
+- **Skills:** Python, Web Scraping, Pandas, Matplotlib, Streamlit
+
+- **Deployed Link:** [View App](https://quotes-scraper-data-analysis.streamlit.app/)
 
 ---
 
 ### ⚡️ [Electricity Demand Forecasting](https://github.com/Ashish0016op/electricity-demand-forecasting)
-**Tags:** `#Python` `#MachineLearning` `#Forecasting` `#XGBoost`  
-**Description:**  
-Developed a machine learning solution to forecast regional electricity demand. Performed end-to-end ML workflow including data cleaning, feature engineering, model building, and result visualization.
 
-🔗 **[View the deployed project](https://electricity-demand-forecasting-a.streamlit.app/)**
+- **Description:**  
+  Developed a machine learning solution to forecast regional electricity demand. Performed end-to-end ML workflow including data cleaning, feature engineering, model building, and result visualization.
 
+- **Skills:** Python, Machine Learning, XGBoost, Scikit-learn, Pandas, Streamlit
+
+- **Deployed Link:** [View Forecasting Tool](https://electricity-demand-forecasting-a.streamlit.app/)
 ---
 
 📊 **GitHub Stats & Contributions**

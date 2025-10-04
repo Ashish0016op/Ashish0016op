@@ -55,10 +55,11 @@
 🚀 **Featured Projects**
 
 ---
-
 ### 🔹 [Quotes-Scraper-Data-Analysis](https://github.com/Ashish0016op/Quotes-Scraper-Data-Analysis)  
 **Tech:** Python, Pandas, Matplotlib  
 🔍 Performed Exploratory Data Analysis on real-world datasets and visualized insights.
+
+🔗 [View the deployed project](https://quotes-scraper-data-analysis.streamlit.app/)
 
 ---
 

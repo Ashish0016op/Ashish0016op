@@ -64,9 +64,9 @@
 
 ### 🔹 [Electricity Demand Forecasting](https://github.com/Ashish0016op/electricity-demand-forecasting)  
 **Tech:** Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, XGBoost  
-📊 Developed a machine learning model to forecast electricity demand using historical data. Performed data cleaning, feature engineering, and model evaluation to achieve accurate predictions. Visualized trends and patterns using Matplotlib and Seaborn.
+📊 Developed a machine learning model to forecast electricity demand using historical data. Performed data cleaning, feature engineering, and model evaluation to achieve accurate predictions. Visualized trends and patterns using Matplotlib and Seaborn.  
 
-🚀 **Live Demo:** [Streamlit App](https://electricity-demand-forecasting-a.streamlit.app/)
+🔗 [View the deployed project](https://electricity-demand-forecasting-a.streamlit.app/)
 
 ---
 

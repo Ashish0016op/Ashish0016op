@@ -52,11 +52,9 @@
 ---
 
 ### 💬 [Quotes Scraper Data Analysis](https://github.com/Ashish0016op/Quotes-Scraper-Data-Analysis)
-
+- **Tech Used:** Python, Web Scraping, Pandas, Matplotlib, Streamlit
 - **Description:**  
   A Python-powered app that scrapes quotes from web sources, cleans the data, performs exploratory data analysis, and visualizes insights using Pandas and Matplotlib.
-
-- **Tech Used:** Python, Web Scraping, Pandas, Matplotlib, Streamlit
 
 - **Deployed Link:** [View App](https://quotes-scraper-data-analysis.streamlit.app/)
 
@@ -64,10 +62,10 @@
 
 ### 🛒 [Consumer Shopping Behavior Analysis Dashboard](https://github.com/Ashish0016op/Consumer-Shopping-Behavior-Analysis-Dashboard)
 
+- **Tech Used:** Power BI, DAX, Python, Streamlit, Data Visualization
 - **Description:**  
   A business intelligence dashboard that visualizes consumer shopping trends, revenue, customer segmentation, and key performance metrics. Utilizes Power BI and DAX for advanced analytics and interactive reports.
 
-- **Tech Used:** Power BI, DAX, Python, Streamlit, Data Visualization
 
 - **Deployed Link:** [View Dashboard](https://consumer-shopping-behavior-analysis-dashboard.streamlit.app/)
 
@@ -75,11 +73,10 @@
 
 
 ### ⚡️ [Electricity Demand Forecasting](https://github.com/Ashish0016op/electricity-demand-forecasting)
-
+- **Tech Used:** Python, Machine Learning, XGBoost, Scikit-learn, Pandas, Streamlit
 - **Description:**  
   Developed a machine learning solution to forecast regional electricity demand. Performed end-to-end ML workflow including data cleaning, feature engineering, model building, and result visualization.
 
-- **Tech Used:** Python, Machine Learning, XGBoost, Scikit-learn, Pandas, Streamlit
 
 - **Deployed Link:** [View Forecasting Tool](https://electricity-demand-forecasting-a.streamlit.app/)
 ---

@@ -51,6 +51,17 @@
 
 ---
 
+### 💬 [Quotes Scraper Data Analysis](https://github.com/Ashish0016op/Quotes-Scraper-Data-Analysis)
+
+- **Description:**  
+  A Python-powered app that scrapes quotes from web sources, cleans the data, performs exploratory data analysis, and visualizes insights using Pandas and Matplotlib.
+
+- **Tech Used:** Python, Web Scraping, Pandas, Matplotlib, Streamlit
+
+- **Deployed Link:** [View App](https://quotes-scraper-data-analysis.streamlit.app/)
+
+---
+
 ### 🛒 [Consumer Shopping Behavior Analysis Dashboard](https://github.com/Ashish0016op/Consumer-Shopping-Behavior-Analysis-Dashboard)
 
 - **Description:**  
@@ -62,16 +73,6 @@
 
 ---
 
-### 💬 [Quotes Scraper Data Analysis](https://github.com/Ashish0016op/Quotes-Scraper-Data-Analysis)
-
-- **Description:**  
-  A Python-powered app that scrapes quotes from web sources, cleans the data, performs exploratory data analysis, and visualizes insights using Pandas and Matplotlib.
-
-- **Tech Used:** Python, Web Scraping, Pandas, Matplotlib, Streamlit
-
-- **Deployed Link:** [View App](https://quotes-scraper-data-analysis.streamlit.app/)
-
----
 
 ### ⚡️ [Electricity Demand Forecasting](https://github.com/Ashish0016op/electricity-demand-forecasting)
 

@@ -76,6 +76,8 @@
 <br>
 📊 Visualizes key metrics such as revenue, average purchase amount, customer count, review ratings, and subscription revenue.
 
+🔗 [View the deployed project](https://consumer-shopping-behavior-analysis-dashboard.streamlit.app/)
+
 
 ---
 

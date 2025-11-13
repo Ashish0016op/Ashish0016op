@@ -1,7 +1,7 @@
 <!-- Ashish0016op | Data Scientist | AI Enthusiast -->
 
 <h1 align="center">👋 Hi, I'm Ashish Kumar</h1>
-<h3 align="center">Data Scientist | Transforming Data into Insights | Exploring AI & ML</h3>
+<h3 align="center">Data Scientist | Software Developer | Transforming Data into Insights | Exploring AI & ML</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ashish-kumar-b115a1254/" target="_blank">

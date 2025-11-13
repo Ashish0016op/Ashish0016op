@@ -51,12 +51,12 @@
 
 ---
 
-### 💬 [Quotes Scraper Data Analysis](https://github.com/Ashish0016op/Quotes-Scraper-Data-Analysis)
-- **Tech Used:** Python, Web Scraping, Pandas, Matplotlib, Streamlit
+### 💬 [Expense Tracker](https://github.com/Ashish0016op/full_expense_app)
+- **Tech Used:** React.js, Nodejs, Express.js, MongoDB, Jwt
 - **Description:**  
-  A Python-powered app that scrapes quotes from web sources, cleans the data, performs exploratory data analysis, and visualizes insights using Pandas and Matplotlib.
+  Developed a full-stack expense management web application that helps users track their daily income and expenses, visualize financial summaries, and manage spending patterns efficiently.
 
-- **Deployed Link:** [View App](https://quotes-scraper-data-analysis.streamlit.app/)
+- **Deployed Link:** [View App](https://expense-trackered.netlify.app/login)
 
 ---
 

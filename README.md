@@ -51,23 +51,20 @@
 
 ---
 
+### 📊 [Data Analysis Chatbot](https://github.com/Ashish0016op/Data-Analysis-Chatbot)
+- **Tech Used:** Next.js 16, React 19, FastAPI, MongoDB, LangChain, Google Gemini API
+- **Description:**  
+  An AI-powered interactive platform that enables users to upload CSV datasets and perform exploratory data analysis, generate dynamic charts/visualizations, run statistical tests, and train machine learning models using natural language.
+- **Deployed Link:** [View Application](https://data-analysis-chatbot-frontend.vercel.app/login/)
+
+---
+
 ### 💬 [Expense Tracker](https://github.com/Ashish0016op/full_expense_app)
 - **Tech Used:** React.js, Nodejs, Express.js, MongoDB, Jwt
 - **Description:**  
   Developed a full-stack expense management web application that helps users track their daily income and expenses, visualize financial summaries, and manage spending patterns efficiently.
 
 - **Deployed Link:** [View App](https://expense-trackered.netlify.app/login)
-
----
-
-### 🛒 [Consumer Shopping Behavior Analysis Dashboard](https://github.com/Ashish0016op/Consumer-Shopping-Behavior-Analysis-Dashboard)
-
-- **Tech Used:** Power BI, DAX, Python, Streamlit, Data Visualization
-- **Description:**  
-  A business intelligence dashboard that visualizes consumer shopping trends, revenue, customer segmentation, and key performance metrics. Utilizes Power BI and DAX for advanced analytics and interactive reports.
-
-
-- **Deployed Link:** [View Dashboard](https://consumer-shopping-behavior-analysis-dashboard.streamlit.app/)
 
 ---
 
